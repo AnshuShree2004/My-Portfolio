@@ -1,0 +1,25 @@
+.purple {
+  color: rgb(162, 114, 207);
+  text-shadow: 2px 2px blueviolet;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.vertical-title {
+  position: relative;
+  top: 85px;
+  width: 150px;
+  left: -35px;
+}
+.vertical-desc {
+  position: relative;
+  top: 90px;
+  color: gray;
+  width: 150px;
+  font-size: 9px;
+  left: -35px;
+}
+
+
